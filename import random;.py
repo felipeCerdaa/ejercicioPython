@@ -38,7 +38,7 @@ def game(player1, player_compute):
     elif(player1 == "spock" and player_compute == "tijera" or player1 == "spock" and player_compute == "piedra"):
         print("gana player1 => ", player1 , " => ", player_compute)
     else:
-        print("gana player_compute => ", player_compute, " => ", player1)
+        print("ganaste hijo mio", player_compute, " => ", player1)
 
 
 
